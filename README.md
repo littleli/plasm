@@ -1,11 +1,11 @@
 plasm
 =====
 
- (P)l.a..	author Ales Najmann
-  p(L)a.s.	assembled 2002-06-13
-  p.l(A)s.m  	ales.najmann@seznam.cz
-   .l.a(S)m  	
-    ..a.s(M)    feel and enjoy!
+	(P)l.a..	author Ales Najmann
+	p(L)a.s.	assembled 2002-06-13
+	p.l(A)s.m  	ales.najmann@seznam.cz
+	.l.a(S)m  	
+	..a.s(M)    feel and enjoy!
 
 minimum requirements
 --------------------
