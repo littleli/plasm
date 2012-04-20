@@ -5,7 +5,7 @@ plasm
 	 p(L)a.s.	assembled 2002-06-13
 	 p.l(A)s.m
 	  .l.a(S)m  	
-	  ..a.s(M)	feel and enjoy!
+	   ..a.s(M)	feel and enjoy!
 
 minimum requirements
 --------------------
