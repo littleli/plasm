@@ -7,9 +7,12 @@ plasm
 	  .l.a(S)m  	
 	   ..a.s(M)	feel and enjoy!
 
+
 minimum requirements
 --------------------
 
 * 386+, 387+
 * vga, dos 3.0 (untested), windows/dos box (only 32bit OS), dosemu (required in 64bit OS)
 * one free cluster on your disc
+
+![Alt color](https://github.com/littleli/plasm/blob/master/plasm-c.png?raw=true "Color preview")
