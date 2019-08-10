@@ -15,4 +15,4 @@ minimum requirements
 * vga, dos 3.0 (untested), windows/dos box (only 32bit OS), dosemu (required in 64bit OS)
 * one free cluster on your disc
 
-![Alt color](https://github.com/littleli/plasm/blob/master/plasm-c.png?raw=true "Color preview")
+![https://youtu.be/gapf5pJabqA](https://youtu.be/gapf5pJabqA "Youtube video")
